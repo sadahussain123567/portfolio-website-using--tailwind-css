@@ -56,7 +56,7 @@ const Hero = () => {
           </div>
           <div className="flex-1 items-center justify-center">
             <Image
-              src="/hero.png"
+              src="/about.png"
               alt="Profile Picture"
               className="rounded-full"
               width={400}
